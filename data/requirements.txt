@@ -1,0 +1,6 @@
+pandas
+openpyxl
+netmiko
+paramiko
+dnspython
+python-dotenv
